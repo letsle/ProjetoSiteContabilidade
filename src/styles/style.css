@@ -1,0 +1,17 @@
+/*responsividade */
+
+@media only screen and (min-width: 768px) {
+  /* Adicione estilos específicos para telas maiores que 768px */
+  body {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  /* Adicione estilos específicos para telas maiores que 1200px */
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Adicione mais media queries conforme necessário */
